@@ -1,4 +1,7 @@
-# Slush Hapi-server [![Build Status](https://secure.travis-ci.org/jeantimex/slush-hapi-server.png?branch=master)](https://travis-ci.org/jeantimex/slush-hapi-server) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-hapi-server.png)](http://badges.enytc.com/for/npm/slush-hapi-server)
+# Slush Hapi Server
+
+[![Build Status](https://secure.travis-ci.org/jeantimex/slush-hapi-server.png?branch=master)](https://travis-ci.org/jeantimex/slush-hapi-server)
+[![NPM version](https://badge-me.herokuapp.com/api/npm/slush-hapi-server.png)](http://badges.enytc.com/for/npm/slush-hapi-server)
 
 > Scaffold your next html5 app with hapi server.
 
@@ -16,13 +19,13 @@ $ npm install -g slush-hapi-server
 Create a new folder for your project:
 
 ```bash
-$ mkdir my-slush-hapi-server
+$ mkdir my-server
 ```
 
 Run the generator from within the new folder:
 
 ```bash
-$ cd my-slush-hapi-server && slush hapi-server
+$ cd my-server && slush hapi-server
 ```
 
 ## Getting To Know Slush
