@@ -21,6 +21,7 @@
         "npm": ">=1.4.3"
     },
     "scripts": {
+        "release": "release-it",
         "test": "echo \"No tests\""
     },
     "dependencies": {
@@ -36,5 +37,8 @@
     },
     "keywords": [
         "slushgenerator"
-    ]
+    ],
+    "devDependencies": {
+        "release-it": "^5.1.2"
+    }
 }
