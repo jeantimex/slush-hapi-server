@@ -1,7 +1,7 @@
 {
     "name": "slush-hapi-server",
     "description": "Scaffold your next html5 app with hapi server.",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "homepage": "https://github.com/jeantimex/slush-hapi-server",
     "author": {
         "name": "jeantimex",
