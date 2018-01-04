@@ -2,6 +2,7 @@
 
 [![Build Status](https://secure.travis-ci.org/jeantimex/slush-hapi-server.png?branch=master)](https://travis-ci.org/jeantimex/slush-hapi-server)
 [![NPM version](https://badge.fury.io/js/slush-hapi-server.svg)](https://badge.fury.io/js/slush-hapi-server)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BFXQGY77CV3T2)
 
 > Scaffold your next html5 app with hapi server.
 
