@@ -1,7 +1,7 @@
 # Slush Hapi Server
 
 [![Build Status](https://secure.travis-ci.org/jeantimex/slush-hapi-server.png?branch=master)](https://travis-ci.org/jeantimex/slush-hapi-server)
-[![NPM version](https://badge-me.herokuapp.com/api/npm/slush-hapi-server.png)](http://badges.enytc.com/for/npm/slush-hapi-server)
+[![NPM version](https://badge.fury.io/js/slush-hapi-server.svg)](https://badge.fury.io/js/slush-hapi-server)
 
 > Scaffold your next html5 app with hapi server.
 
